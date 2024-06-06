@@ -9,9 +9,9 @@
 
 Welcome to my personal Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI. 
 ---
-## [Project 1: Sales Dashboard](https://tushar-aggarwal.com/httpsgithubcomtushar2704consumablessalesdashboard)
+## [Project 1: RR.HH Dashboard](https://tushar-aggarwal.com/httpsgithubcomtushar2704consumablessalesdashboard)
 
-Consumable Sales Dashboard, a powerful and intuitive data visualization tool built using Power BI. This dashboard offers a comprehensive view of sales data for consumable products, allowing you to quickly and easily analyze performance and identify trends.
+consumable database on human resources data where we can visualize different aspects of the company, this is the starting point to demonstrate my skills in POWER BI
 ## Preview
 
-![sales](https://github.com/tushar2704/tushar2704-GIFs/blob/main/salesd1.gif)
+![a](https://i.imgur.com/NCAl3ga.png)
