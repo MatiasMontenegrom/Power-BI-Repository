@@ -11,7 +11,7 @@ Welcome to my personal Power BI portfolio repository! Here you will find a colle
 ---
 ## [Project 1: RR.HH Dashboard](https://tushar-aggarwal.com/httpsgithubcomtushar2704consumablessalesdashboard)
 
-consumable database on human resources data where we can visualize different aspects of the company, this is the starting point to demonstrate my skills in POWER BI
+Consumable database on human resources data where we can visualize different aspects of the company, this is the starting point to demonstrate my skills in POWER BI
 ## Preview
 
 ![a](https://i.imgur.com/NCAl3ga.png)
