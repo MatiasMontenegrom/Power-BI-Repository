@@ -8,3 +8,10 @@
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 Welcome to my personal Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI. 
+---
+## [Project 1: Sales Dashboard](https://tushar-aggarwal.com/httpsgithubcomtushar2704consumablessalesdashboard)
+
+Consumable Sales Dashboard, a powerful and intuitive data visualization tool built using Power BI. This dashboard offers a comprehensive view of sales data for consumable products, allowing you to quickly and easily analyze performance and identify trends.
+## Preview
+
+![sales](https://github.com/tushar2704/tushar2704-GIFs/blob/main/salesd1.gif)
