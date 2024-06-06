@@ -15,3 +15,11 @@ Consumable database on human resources data where we can visualize different asp
 ## Preview
 
 ![a](https://i.imgur.com/NCAl3ga.png)
+
+## [Project 2: Pizza Database](https://tushar-aggarwal.com/httpsgithubcomtushar2704consumablessalesdashboard)
+
+Consumable data where we can see different information about pizza sales
+
+![a](https://i.imgur.com/T6G2qxd.png)
+![a](https://i.imgur.com/A4Q0o7o.png)
+
